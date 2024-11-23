@@ -1,3 +1,3 @@
 ## Leetcodes
 
-[Two Sum](Two Sum.md)
+[Two Sum](two_sum.md)
